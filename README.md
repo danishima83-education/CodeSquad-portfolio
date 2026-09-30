@@ -1,2 +1,2 @@
 # CodeSquad-portfolio
-Portfolio of Danilo Andiel Sireh
+Portfolio of Daniel Andres Oh
