@@ -57,9 +57,23 @@ h2 {
     width: 100%;
 }
 
-figcaption {
-    margin-top: 8px;
+figcaption {margin-top: 8px;}
+
+.welcome-portfolio {
+    font-size: 25px;
 }
+
+button {
+    font-family: 'courier new', courier, monospace;
+    font-size: 30px;
+    background-color: #7a2e22;
+    color: #f5f0eb;
+    border-radius: 15px;
+    cursor: pointer;
+    padding: 5px 12px;
+}
+
+button:hover {background-color: #1c1915;}
 
 footer {
     margin-top: 24px;
